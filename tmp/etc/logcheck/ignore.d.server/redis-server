@@ -1,0 +1,5 @@
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ redis\[[[:digit:]]+\]: [0-9]+ changes in [0-9]+ seconds\. Saving\.\.\.
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ redis\[[[:digit:]]+\]: Background saving started by pid [0-9]+
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ redis\[[[:digit:]]+\]: DB saved on disk
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ redis\[[[:digit:]]+\]: RDB: [0-9]+ MB of memory used by copy-on-write
+^\w{3} [ :[:digit:]]{11} [._[:alnum:]-]+ redis\[[[:digit:]]+\]: Background saving terminated with success

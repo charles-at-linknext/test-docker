@@ -1,0 +1,30 @@
+This work was packaged for Debian by:
+
+    Rowan Wookey <admin@rwky.net> on Tue, 19 Oct 2010 11:37:16 -0700
+
+It was downloaded from http://code.google.com/p/redis
+
+Upstream Author(s):
+	Salvatore Sanfilippo
+    	
+Copyright:
+	Copyright (C) 2009-2010 Salvatore Sanfilippo
+	
+License:
+    BSD License
+
+The Debian packaging is:
+
+    Copyright 2010 Rowan Wookey  <admin@webdesignforall.net>
+
+# Please chose a license for your packaging work. If the program you package
+# uses a mainstream license, using the same license is the safest choice.
+# Please avoid to pick license terms that are more restrictive than the
+# packaged work, as it may make Debian's contributions unacceptable upstream.
+# If you just want it to be GPL version 3, leave the following lines in.
+
+License:
+    BSD LICENSE
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.

@@ -1,0 +1,8 @@
+/var/log/redis/*.log {
+        daily
+        missingok
+		copytruncate
+        rotate 999
+        compress
+    	size 1M
+}
